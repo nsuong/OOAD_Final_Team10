@@ -1,0 +1,74 @@
+﻿@model QuanLyThuVien.Models.DocGia
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>DocGia</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IDDocGia)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IDDocGia)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TaiKhoan)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TaiKhoan)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MatKhau)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MatKhau)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HoTen)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HoTen)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NgaySinh)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NgaySinh)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LoaiDocGia)
+        </dt>
+        <dd>
+            @if (Model.LoaiDocGia == 0)
+            {
+                @:Giảng viên
+            }
+            @if (Model.LoaiDocGia == 1)
+            {
+                @:Sinh Viên
+            }
+            @if (Model.LoaiDocGia == 2)
+            {
+                @:Nghề ngiệp khác
+            }
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DiaChi)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DiaChi)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IDDocGia }) |;
+    <a asp-action="Index">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

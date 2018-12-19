@@ -1,0 +1,106 @@
+﻿
+@model IEnumerable<QuanLyThuVien.ViewModels.viewSach>
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+<br />
+@using (Html.BeginForm("timSach", "Home"))
+{
+    <div class="form-group" style="width:200px">
+        <input type="text" name="keysearch" value="" placeholder="Điền tên sách/ tên tác giả" />
+        <input type="submit" name="submit" value="Tìm kiếm" />
+    </div>
+}
+@using (Html.BeginForm("Create", "YeuCauThemSach"))
+{
+    <div class="form-group">
+        <input type="text" name="TenSach" value="" />
+        <input type="text" name="TenTacGia" value="">
+        <input type="submit" name="name" value="Gửi đề xuất" />
+    </div>
+}
+ <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.IDSach)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TenLoai)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TenSach)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TacGia)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NhaXuatBan)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NamXuatBan)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SoTrang)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MoTa)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NgayNhap)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.XepHangTb)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SoDanhGia)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IDSach)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenLoai)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenSach)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TacGia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NhaXuatBan)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NamXuatBan)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SoTrang)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MoTa)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayNhap)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.XepHangTb)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SoDanhGia)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Details", "Details", "Sach", new { id = item.IDSach }) |
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>

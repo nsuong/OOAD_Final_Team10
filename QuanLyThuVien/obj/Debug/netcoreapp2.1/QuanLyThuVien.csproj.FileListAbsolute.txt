@@ -1,0 +1,114 @@
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.deps.json
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.runtimeconfig.json
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.runtimeconfig.dev.json
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.dll
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.csprojAssemblyReference.cache
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorAssemblyInfo.cache
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorAssemblyInfo.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.AssemblyInfoInputs.cache
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.AssemblyInfo.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.TagHelpers.input.cache
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.TagHelpers.output.cache
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorCoreGenerate.cache
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorTargetAssemblyInfo.cache
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorTargetAssemblyInfo.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.pdb
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.Views.dll
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.Views.pdb
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.Views.pdb
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.dll
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.pdb
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.csproj.CopyComplete
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\LoaiSach\Index.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\LoaiSach\Edit.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\LoaiSach\Create.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Sach\Index.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Sach\Edit.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Index.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Edit.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Details.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Create.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Login.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\Index.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\Edit.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\Details.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\Create.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Index.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Create.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Edit.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Details.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Login.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Sach\Create.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\SachTrongChiNhanh.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\themSach.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\timSach.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Sach\Details.g.cshtml.cs
+D:\aa_file hoc tap\asp .net project\QuanLyThuVien\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauThemSach\Index.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.deps.json
+C:\Users\hainguyen\Desktop\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.runtimeconfig.json
+C:\Users\hainguyen\Desktop\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.runtimeconfig.dev.json
+C:\Users\hainguyen\Desktop\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.dll
+C:\Users\hainguyen\Desktop\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.pdb
+C:\Users\hainguyen\Desktop\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.Views.dll
+C:\Users\hainguyen\Desktop\QuanLyThuVien\bin\Debug\netcoreapp2.1\QuanLyThuVien.Views.pdb
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorAssemblyInfo.cache
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorAssemblyInfo.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.AssemblyInfoInputs.cache
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.AssemblyInfo.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.TagHelpers.input.cache
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.TagHelpers.output.cache
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorCoreGenerate.cache
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\Create.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\Details.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\Edit.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\Index.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\SachTrongChiNhanh.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\ChiNhanh\themSach.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Create.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Details.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Edit.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Index.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\DocGia\Login.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Home\timSach.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\LoaiSach\Create.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\LoaiSach\Edit.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\LoaiSach\Index.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Create.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Details.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Edit.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Index.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\NhanVien\Login.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Sach\Create.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Sach\Details.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Sach\Edit.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Sach\Index.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\YeuCauThemSach\Index.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorTargetAssemblyInfo.cache
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.RazorTargetAssemblyInfo.cs
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.Views.pdb
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.dll
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.pdb
+C:\Users\hainguyen\Desktop\QuanLyThuVien\obj\Debug\netcoreapp2.1\QuanLyThuVien.csproj.CopyComplete
